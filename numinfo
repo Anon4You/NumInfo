@@ -1,3 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/python
 import os,sys
 try:
     import phonenumbers
