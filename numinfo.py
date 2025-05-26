@@ -1,3 +1,8 @@
+#!/data/data/com.termux/files/usr/bin/python
+
+##   NumInfo   :      Advanced Phone Number Intelligence Tool
+##   Author    :      Alienkrishn [Anon4You]
+
 import re
 import requests
 import json
