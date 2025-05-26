@@ -35,12 +35,12 @@ cp .env.example .env
 
 Basic usage:
 ```bash
-python phone_info.py +1234567890
+python numinfo.py +1234567890
 ```
 
 Save results to JSON file:
 ```bash
-python phone_info.py +1234567890 -o results.json
+python numinfo.py +1234567890 -o results.json
 ```
 
 ### ⚙️ Command Line Options
