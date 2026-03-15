@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="images/logo.png" alt="NumInfo Logo" width="150">
+<img src="images/logo.png" alt="NumInfo Logo" width="200">
 
 # 🔍 NumInfo
 
